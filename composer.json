@@ -1,0 +1,21 @@
+{
+  "name": "php-simple/oarray",
+  "description": "OOP wrapper for php array functions",
+  "license": "MIT",
+  "keywords": ["php oop array arrays"],
+  "authors": [
+    {
+      "name": "Ludwik Grochowina",
+      "email": "ludwik.grochowina@gmail.com"
+    }
+  ],
+  "require": {},
+  "require-dev": {
+    "phpunit/phpunit": "4.0.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "PhpSimple\\OArray\\": "src"
+    }
+  }
+}
