@@ -22,5 +22,6 @@
     "psr-4": {
       "PhpSimple\\OArray\\": "src"
     }
-  }
+  },
+  "minimum-stability": "dev"
 }
